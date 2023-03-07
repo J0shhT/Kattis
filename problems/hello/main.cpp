@@ -1,2 +1,1 @@
-#include<cstdio>
-main(){puts("Hello World!");}
+main(){__builtin_puts("Hello World!");}
